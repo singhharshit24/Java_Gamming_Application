@@ -32,6 +32,10 @@ public class tic_tac_toe extends JFrame implements ActionListener {
             return num;
         } else if (a[0][2] == num && a[1][1] == num && a[2][0] == num) {
             return num;
+        } else if (a[1][0] == num && a[1][1] == num && a[1][2] == num) {
+            return num;
+        } else if (a[0][1] == num && a[1][1] == num && a[2][1] == num) {
+            return num;
         }
         return -1;
     }
@@ -168,11 +172,11 @@ public class tic_tac_toe extends JFrame implements ActionListener {
         reset.addActionListener(this);
 
         // this.setContentPane(new JPanel() {
-        //     @Override
-        //     public void paintComponent(Graphics g) {
-        //         super.paintComponent(g);
-        //         g.drawImage(img, 0, 0, null);
-        //     }
+        // @Override
+        // public void paintComponent(Graphics g) {
+        // super.paintComponent(g);
+        // g.drawImage(img, 0, 0, null);
+        // }
         // });
         for (int i = 0; i < 9; i++) {
             c.add(b[i]);
