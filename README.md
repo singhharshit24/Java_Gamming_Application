@@ -4,6 +4,10 @@ Introducing Alpha Games: A Game Collection for Endless Fun!
 
 Alpha Games is an exhilarating game application developed in Java that offers a fantastic gaming experience with three thrilling mini-games: Tic-Tac-Toe, 15-Puzzle, and Maze. This diverse collection guarantees hours of entertainment and challenges for players of all ages.
 
+- <b>TIC-TAC-TOE:</b> Experience the classic game of Tic-Tac-Toe and challenge your strategic skills in this timeless battle of Xs and Os. It is a 2-player game that can be played turn by turn on your system.
+- <b>15-Puzzle:</b> Solve the mind-bending 15-Puzzle by rearranging the numbered tiles to achieve the correct order in this captivating sliding tile game. 
+- <b>Maze:</b> Navigate treacherous mazes and find your way to freedom in this thrilling and immersive maze game. Use W,A,S,D keys to navigate the player up, left, down, right respectively.
+
 ## Features
 
 - Play interesting games
@@ -15,6 +19,25 @@ The application is built using the GUI library of java called Swing and AWT.
 - Javax Swing
 - Java AWT(Abstract Window Toolkit)
 - Javax Sound
+
+## Clone the Project
+
+Clone the project in a folder
+
+```bash
+git clone https://github.com/singhharshit24/Java_Gamming_Application.git
+```
+Make sure that you have the Java Development Kit installed in your system before running the files.
+
+To run the application: <br>
+first compile the Dashboard.java file
+```terminal
+javac Dashboard.java
+```
+then run the Dashboard.class file
+```terminal
+java Dashboard
+```
 
 ## Demo
 
