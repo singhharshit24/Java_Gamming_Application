@@ -1,0 +1,65 @@
+2022.12.11 20:55:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\lsp.trace.json or C:\Users\singh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.11 20:55:10 INFO  logging to file D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\metals.log
+2022.12.11 20:55:10 INFO  Started: Metals version 0.11.9 in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT' for client Visual Studio Code 1.74.0.
+2022.12.11 20:55:10 WARN  Can't instantiate JavaInteractiveSemanticdb (version: JdkVersion(8), jdkHome: C:\Program Files\Java\jre1.8.0_51, javac exists: false)
+2022.12.11 20:55:12 INFO  time: initialize in 1.58s
+2022.12.11 20:55:12 WARN  Build server is not auto-connectable.
+2022.12.11 20:55:12 WARN  no build tool detected in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.11 20:55:12 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\Dashboard.java
+2022.12.11 20:57:59 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\games\tic_tac_toe.java
+2022.12.11 20:58:57 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\games\puzzle.java
+2022.12.11 20:59:24 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\games\maze.java
+2022.12.11 20:59:44 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\music\Music.java
+2022.12.11 22:12:56 INFO  shutting down Metals
+2022.12.12 14:09:26 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\lsp.trace.json or C:\Users\singh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.12 14:09:29 INFO  logging to file D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\metals.log
+2022.12.12 14:09:29 INFO  Started: Metals version 0.11.9 in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT' for client Visual Studio Code 1.74.0.
+2022.12.12 14:09:29 WARN  Can't instantiate JavaInteractiveSemanticdb (version: JdkVersion(8), jdkHome: C:\Program Files\Java\jre1.8.0_51, javac exists: false)
+2022.12.12 14:09:34 INFO  time: initialize in 5.33s
+2022.12.12 14:09:36 WARN  Build server is not auto-connectable.
+2022.12.12 14:09:36 WARN  no build tool detected in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.12 14:09:36 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\Dashboard.java
+Dec 12, 2022 2:09:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2022.12.12 14:55:36 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\games\tic_tac_toe.java
+2022.12.12 14:56:50 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\games\puzzle.java
+2022.12.12 14:57:31 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\games\maze.java
+2022.12.12 15:01:11 INFO  shutting down Metals
+2022.12.12 15:01:51 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\lsp.trace.json or C:\Users\singh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.12 15:01:52 INFO  logging to file D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\metals.log
+2022.12.12 15:01:52 INFO  Started: Metals version 0.11.9 in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT' for client Visual Studio Code 1.74.0.
+2022.12.12 15:01:52 WARN  Can't instantiate JavaInteractiveSemanticdb (version: JdkVersion(8), jdkHome: C:\Program Files\Java\jre1.8.0_51, javac exists: false)
+2022.12.12 15:01:53 INFO  time: initialize in 1.11s
+2022.12.12 15:01:54 WARN  Build server is not auto-connectable.
+2022.12.12 15:01:54 WARN  no build tool detected in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.12 15:01:54 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\Dashboard.java
+2022.12.12 15:02:06 INFO  shutting down Metals
+2022.12.13 22:30:31 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\lsp.trace.json or C:\Users\singh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.13 22:30:32 INFO  logging to file D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\metals.log
+2022.12.13 22:30:32 INFO  Started: Metals version 0.11.9 in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT' for client Visual Studio Code 1.74.0.
+2022.12.13 22:30:32 WARN  Can't instantiate JavaInteractiveSemanticdb (version: JdkVersion(8), jdkHome: C:\Program Files\Java\jre1.8.0_51, javac exists: false)
+2022.12.13 22:30:34 INFO  time: initialize in 2.45s
+2022.12.13 22:30:35 WARN  Build server is not auto-connectable.
+2022.12.13 22:30:35 WARN  no build tool detected in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.13 22:30:36 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\Dashboard.java
+2022.12.13 22:34:03 INFO  shutting down Metals
+2022.12.13 22:34:22 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\lsp.trace.json or C:\Users\singh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.13 22:34:29 INFO  logging to file D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\metals.log
+2022.12.13 22:34:29 INFO  Started: Metals version 0.11.9 in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT' for client Visual Studio Code 1.74.0.
+2022.12.13 22:34:29 WARN  Can't instantiate JavaInteractiveSemanticdb (version: JdkVersion(8), jdkHome: C:\Program Files\Java\jre1.8.0_51, javac exists: false)
+2022.12.13 22:34:34 INFO  time: initialize in 5.38s
+2022.12.13 22:34:36 WARN  Build server is not auto-connectable.
+2022.12.13 22:34:36 WARN  no build tool detected in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.13 22:34:36 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\Dashboard.java
+2022.12.13 22:35:06 INFO  shutting down Metals
+2022.12.27 21:08:58 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\lsp.trace.json or C:\Users\singh\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.27 21:08:59 INFO  logging to file D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\.metals\metals.log
+2022.12.27 21:08:59 INFO  Started: Metals version 0.11.9 in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT' for client Visual Studio Code 1.74.2.
+2022.12.27 21:08:59 WARN  Can't instantiate JavaInteractiveSemanticdb (version: JdkVersion(8), jdkHome: C:\Program Files\Java\jre1.8.0_51, javac exists: false)
+2022.12.27 21:09:00 INFO  time: initialize in 1.13s
+2022.12.27 21:09:01 WARN  Build server is not auto-connectable.
+2022.12.27 21:09:01 WARN  no build tool detected in workspace 'D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.27 21:09:00 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\Dashboard.java
+2022.12.27 21:14:46 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\games\maze.java
+2022.12.27 21:14:48 WARN  no build target for: D:\dj sanghvi\Sem 5\JAVA\JAVA PROJECT\music\Music.java
+2022.12.27 21:14:59 INFO  shutting down Metals
